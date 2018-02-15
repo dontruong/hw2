@@ -23,5 +23,6 @@
   "homepage": "https://github.com/dontruong/hw2#readme",
   "dependencies": {
     "express": "^4.16.2"
-  }
+  },
+  "devDependencies": {}
 }
